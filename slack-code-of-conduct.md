@@ -29,5 +29,5 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 ## Acknowledgements
 
 This Code of Conduct is adapted from 
-- [Contributor Covenant][homepage]
-- https://golang.org/conduct
+- [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
+- [Go Code of Conduct](https://golang.org/conduct)
