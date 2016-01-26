@@ -1,47 +1,33 @@
 # Elm Slack Community Code of Conduct
 
-As a participant of this community, and in the interest of
-fostering an open and welcoming community, we pledge to respect all people who
-participate through the Slack chat and other activities.
+Online communities include people from many different backgrounds. The moderators of this community are committed to providing a friendly, safe and welcoming environment for all, regardless of age, disability, gender, nationality, race, religion, sexuality, or similar personal characteristic.
 
-We are committed to making participation in this community a harassment-free
-experience for everyone, regardless of level of experience, gender, gender
-identity and expression, sexual orientation, disability, personal appearance,
-body size, race, ethnicity, age, religion, or nationality.
+As participants of this community we pledge to:
 
-Examples of unacceptable behavior by participants include:
+- __Be friendly, welcoming and inclusive.__ 
+- __Be helpful and patient.__ 
+- __Be respectful.__ 
+- __Be considerate.__
+- __Avoid negative behaviour__.
+	- Derailing a conversation: if you want to talk about something else, start a new conversation.
+	- Unconstructive criticism: don't merely decry the current state of affairs; offer suggestions as to how things may be improved.
+	- Snarking (pithy, unproductive, sniping comments)
+	- Discussing potentially offensive or sensitive issues; this all too often leads to unnecessary conflict.
+	- Microaggressions: brief and commonplace verbal, behavioral and environmental indignities that communicate hostile, derogatory or negative slights and insults to a person or group.
 
-* The use of sexualized language or imagery
-* Personal attacks
-* Trolling or insulting/derogatory comments
-* Public or private harassment
-* Publishing other's private information, such as physical or electronic
-  addresses, without explicit permission
-* Other unethical or unprofessional conduct
+Everyone can make a valuable contribution to this community. We may not always agree, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one.
 
-Administrators have the right and responsibility to remove, edit, or
-reject comments and other assets that are not aligned to this Code of Conduct, 
-or to ban temporarily or permanently any participant for other behaviors that
-they deem inappropriate, threatening, offensive, or harmful.
+Sometimes misundestandings and conflicts are inevitable, but resits the urge to be defensive or assign blame. Try not to take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it.
 
-By adopting this Code of Conduct, community administrators commit themselves to
-fairly and consistently applying these principles to every aspect of managing
-this community. Community administrators who do not follow or enforce the Code of
-Conduct may be permanently removed from the community team.
+We are committed to making participation in this community a harassment-free experience for everyone. As such moderators have the right and responsibility to remove, edit, or reject comments and other assets that are not aligned to this Code of Conduct, 
+or to ban temporarily or permanently any participant for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
-This Code of Conduct applies both within community spaces and in public spaces
-when an individual is representing the community or its community.
+## Reporting issues
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting a community maintainer at s@porto5.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. Administrators are
-obligated to maintain confidentiality with regard to the reporter of an
-incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community maintainer at s@porto5.com. Do not post about the issue publicly or try to rally sentiment against a particular individual or group. Moderators are obligated to maintain confidentiality with regard to the reporter of an incident.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.3.0, available at
-[http://contributor-covenant.org/version/1/3/0/][version]
+## Acknowledgements
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/3/0/
+This Code of Conduct is adapted from 
+- [Contributor Covenant][homepage]
+- https://golang.org/conduct
