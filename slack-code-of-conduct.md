@@ -6,11 +6,11 @@ religion, sexuality, or similar personal characteristic.
 
 As participants of this community we pledge to:
 
-- __Be friendly, welcoming and inclusive.__ 
-- __Be helpful and patient.__ 
-- __Be respectful.__ 
+- __Be friendly, welcoming and inclusive.__
+- __Be helpful and patient.__
+- __Be respectful.__
 - __Be considerate.__
-- __Avoid negative behaviour__.
+- __Avoid negative behaviour.__
   - Derailing a conversation: if you want to talk about something else, start a new conversation.
   - Unconstructive criticism: don't merely decry the current state of affairs; offer suggestions as to how things may be
     improved.
@@ -24,7 +24,7 @@ poor behavior and poor manners. We might all experience some frustration now and
 frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable
 or threatened is not a productive one.
 
-Sometimes misundestandings and conflicts are inevitable, but resits the urge to be defensive or assign blame. Try not to
+Sometimes misunderstandings and conflicts are inevitable, but resist the urge to be defensive or assign blame. Try not to
 take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do
 not rise to it.
 
@@ -36,11 +36,11 @@ threatening, offensive, or harmful.
 ## Reporting issues
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the community
-maintainer at s@porto5.com. Do not post about the issue publicly or try to rally sentiment against a particular
+maintainer at `s@porto5.com`. Do not post about the issue publicly or try to rally sentiment against a particular
 individual or group. Moderators are obligated to maintain confidentiality with regard to the reporter of an incident.
 
 ## Acknowledgements
 
-This Code of Conduct is adapted from 
+This Code of Conduct is adapted from
 - [Contributor Covenant](https://github.com/ContributorCovenant/contributor_covenant)
 - [Go Code of Conduct](https://golang.org/conduct)
