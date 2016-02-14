@@ -16,11 +16,12 @@ As participants of this community we pledge to:
   - Do not ridicule someone's ignorance or misunderstanding.
 - __Be respectful and considerate.__
   - People have different levels of experience programming, and with many types of languages. Someone who struggles with
-    Elm might have 15 years of enterprise Java experience. Don't make assumptions about someone's background.
-  - Not everyone speaks English natively. If you can understand the intent, don't remark on the grammar.
+    Elm might have 15 years of enterprise Java experience. Making assumptions about someone's background is usually
+    harmful.
+  - Not everyone speaks English natively. If you can understand the intent, avoid remarking on the grammar.
 - __Avoid negative behaviour.__
   - Derailing a conversation: Chat conversations can move quickly and unpredictably. But, do not actively seek to
-    prevent a conversation from occurring.
+    prevent a conversation from occurring (unless the conversation itself violates this Code).
   - Unconstructive criticism: Do not merely decry the current state of affairs. Offer suggestions as to how things may
     be improved.
   - Snarking: pithy, insulting, or sniping comments.
