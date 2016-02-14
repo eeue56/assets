@@ -1,13 +1,16 @@
 # Elm Slack Community Code of Conduct
 
-Online communities include people from many different backgrounds. The moderators of this community are committed to
-providing a friendly, safe and welcoming environment for all, regardless of age, disability, gender, nationality, race,
-religion, sexuality, or similar personal characteristic. We do not tolerate harassment or abuse in any form.
+The Elm Slack community is a welcoming environment where everyone can seek help and discussion on any Elm-related topic.
+To ensure that our Slack remains as friendly as it currently is, this Code of Conduct documents our rules, values, and
+expectations.
+
+The members and moderators of the Elm Slack community are committed to providing a friendly, safe and welcoming
+environment for all, regardless of age, disability, gender, nationality, race, religion, sexuality, or similar personal
+characteristic. We do not tolerate harassment or abuse in any form.
 
 As participants of this community we pledge to:
 
 - __Be friendly, welcoming and inclusive.__
-  - Do not avoid someone just because they are new to the community.
 - __Be helpful and patient.__
   - Do not _intentionally_ post inaccurate, misleading, or deceptive technical information.
   - Do not ridicule someone's ignorance or misunderstanding.
@@ -23,7 +26,7 @@ As participants of this community we pledge to:
   - Snarking: pithy, insulting, or sniping comments.
   - Discussing potentially offensive or sensitive issues; this frequently leads to unnecessary conflict. There's no
     reason to discuss hot-button political issues in a programming chat room.
-  - Microaggressions: brief and common hostile behaviors that cumulatively communicate that a certain person or group is
+  - Brief and common hostile behaviors that cumulatively communicate that a certain person or group is
     unwelcome.
 
 Everyone can make a valuable contribution to this community. We may not always agree, but disagreement is no excuse for
